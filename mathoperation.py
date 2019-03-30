@@ -18,3 +18,6 @@ elif a in ['B','B)','(B)','B) Subtraction']:
 elif a in ['C','C)','(C)','C) Multiplication']:
 	z = x * y
 	print(z)
+elif a in ['D','D)','(D)','D) Remainder']:
+  z = x % y
+  print (z)
